@@ -53,7 +53,8 @@ const translations = {
     'contact.heading': '문의 사항이 있으시면 편하게 연락해 주세요',
     'contact.openChat': '오픈채팅방',
     'footer.privacy': '개인정보처리방침',
-    'footer.copyright': '© 2026 오르비스(ORBIS) | 사업자등록번호: 825-16-02771',
+    'footer.copyright':
+      '© 2026 <a href="https://needslab.ai" target="_blank" rel="noopener">니즈랩(NeedsLab)</a> | 사업자등록번호: 825-16-02771',
     'nav.tab.claw': 'Claw',
     'nav.tab.code': 'Code',
     'easycode.meta.title': 'EasyCode — Claude Code 원클릭 설치 프로그램',
@@ -146,7 +147,8 @@ const translations = {
     'contact.heading': 'Feel free to contact us with any questions',
     'contact.openChat': 'Open Chat',
     'footer.privacy': 'Privacy Policy',
-    'footer.copyright': '© 2026 ORBIS | Business Registration: 825-16-02771',
+    'footer.copyright':
+      '© 2026 <a href="https://needslab.ai" target="_blank" rel="noopener">NeedsLab</a> | Business Registration: 825-16-02771',
     'nav.tab.claw': 'Claw',
     'nav.tab.code': 'Code',
     'easycode.meta.title': 'EasyCode — One-Click Claude Code Installer',
@@ -242,7 +244,8 @@ const translations = {
     'contact.heading': 'ご質問がありましたらお気軽にお問い合わせください',
     'contact.openChat': 'オープンチャット',
     'footer.privacy': 'プライバシーポリシー',
-    'footer.copyright': '© 2026 ORBIS | 事業者登録番号: 825-16-02771',
+    'footer.copyright':
+      '© 2026 <a href="https://needslab.ai" target="_blank" rel="noopener">NeedsLab</a> | 事業者登録番号: 825-16-02771',
     'nav.tab.claw': 'Claw',
     'nav.tab.code': 'Code',
     'easycode.meta.title': 'EasyCode — Claude Code ワンクリックインストーラー',
@@ -330,7 +333,8 @@ const translations = {
     'contact.heading': '如有任何问题，请随时联系我们',
     'contact.openChat': '开放聊天',
     'footer.privacy': '隐私政策',
-    'footer.copyright': '© 2026 ORBIS | 营业执照号: 825-16-02771',
+    'footer.copyright':
+      '© 2026 <a href="https://needslab.ai" target="_blank" rel="noopener">NeedsLab</a> | 营业执照号: 825-16-02771',
     'nav.tab.claw': 'Claw',
     'nav.tab.code': 'Code',
     'easycode.meta.title': 'EasyCode — Claude Code 一键安装程序',
