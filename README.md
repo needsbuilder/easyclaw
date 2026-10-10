@@ -35,6 +35,8 @@ EasyClaw is a desktop installer that sets up [OpenClaw](https://github.com/openc
 
 **Download → Run → Enter API key** — that's it. Three steps.
 
+> **Note**: EasyClaw is an unofficial third-party installer. It is not affiliated with or endorsed by the OpenClaw project. See [NOTICE](NOTICE).
+
 ## Features
 
 - **One-Click Install** — Automatically detects and installs WSL, Node.js, and OpenClaw
@@ -127,7 +129,8 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 ## Credits
 
-Built on [OpenClaw](https://github.com/openclaw/openclaw) (MIT License) by the [openclaw](https://github.com/openclaw) team.
+- EasyClaw installs [OpenClaw](https://github.com/openclaw/openclaw), a separate open-source project (MIT License) developed by the [openclaw](https://github.com/openclaw) team. EasyClaw itself is not made by the OpenClaw team.
+- The EasyClaw mascot is a modified version of the OpenClaw mascot artwork ([`ui/public/favicon.svg`](https://github.com/openclaw/openclaw/blob/02576615cb4c1382abf1d0aee10ed10f1f676e78/ui/public/favicon.svg) in the MIT-licensed [openclaw/openclaw](https://github.com/openclaw/openclaw) repository). The source and the license text are in [NOTICE](NOTICE).
 
 ## License
 

@@ -39,6 +39,8 @@
 
 **다운로드 → 실행 → API 키 입력**, 3단계면 끝.
 
+> **참고**: EasyClaw는 OpenClaw 프로젝트와 제휴 관계가 없고 승인도 받지 않은 비공식 설치 도구입니다. 마스코트 출처와 라이선스 고지는 [NOTICE](NOTICE)에 있습니다.
+
 ## 주요 기능
 
 - **원클릭 설치** — WSL, Node.js, OpenClaw 등 필요한 환경을 자동 감지 및 설치
@@ -131,7 +133,8 @@ docs/                 # 랜딩 페이지 (easyclaw.kr)
 
 ## 크레딧
 
-[OpenClaw](https://github.com/openclaw/openclaw) (MIT License) 기반 — [openclaw](https://github.com/openclaw) 팀 개발
+- EasyClaw가 설치하는 [OpenClaw](https://github.com/openclaw/openclaw)는 [openclaw](https://github.com/openclaw) 팀이 개발한 별도의 오픈소스 프로젝트입니다(MIT License). EasyClaw는 OpenClaw 팀이 만든 것이 아닙니다.
+- EasyClaw 마스코트는 OpenClaw 마스코트 그림(MIT 라이선스인 [openclaw/openclaw](https://github.com/openclaw/openclaw) 저장소의 [`ui/public/favicon.svg`](https://github.com/openclaw/openclaw/blob/02576615cb4c1382abf1d0aee10ed10f1f676e78/ui/public/favicon.svg))을 변형한 것입니다. 원본 출처와 라이선스 전문은 [NOTICE](NOTICE)에 있습니다.
 
 ## 라이선스
 

@@ -55,6 +55,8 @@ const translations = {
     'footer.privacy': '개인정보처리방침',
     'footer.copyright':
       '© 2026 <a href="https://needslab.ai" target="_blank" rel="noopener">니즈랩(NeedsLab)</a> | 사업자등록번호: 825-16-02771',
+    'footer.notice':
+      'EasyClaw는 OpenClaw 프로젝트와 제휴 관계가 없고 승인도 받지 않은 비공식 설치 도구입니다. EasyClaw 마스코트는 OpenClaw 마스코트를 변형한 것입니다 (<a href="https://github.com/needsbuilder/easyclaw/blob/main/NOTICE" target="_blank" rel="noopener">출처·라이선스</a>).',
     'nav.tab.claw': 'Claw',
     'nav.tab.code': 'Code',
     'easycode.meta.title': 'EasyCode — Claude Code 원클릭 설치 프로그램',
@@ -149,6 +151,8 @@ const translations = {
     'footer.privacy': 'Privacy Policy',
     'footer.copyright':
       '© 2026 <a href="https://needslab.ai" target="_blank" rel="noopener">NeedsLab</a> | Business Registration: 825-16-02771',
+    'footer.notice':
+      'EasyClaw is an unofficial third-party installer, not affiliated with or endorsed by the OpenClaw project. The EasyClaw mascot is adapted from the OpenClaw mascot (<a href="https://github.com/needsbuilder/easyclaw/blob/main/NOTICE" target="_blank" rel="noopener">source &amp; license</a>).',
     'nav.tab.claw': 'Claw',
     'nav.tab.code': 'Code',
     'easycode.meta.title': 'EasyCode — One-Click Claude Code Installer',
@@ -246,6 +250,8 @@ const translations = {
     'footer.privacy': 'プライバシーポリシー',
     'footer.copyright':
       '© 2026 <a href="https://needslab.ai" target="_blank" rel="noopener">NeedsLab</a> | 事業者登録番号: 825-16-02771',
+    'footer.notice':
+      'EasyClawは非公式のインストーラーであり、OpenClawプロジェクトとの提携関係や同プロジェクトの公認はありません。EasyClawのマスコットはOpenClawのマスコットを改変したものです（<a href="https://github.com/needsbuilder/easyclaw/blob/main/NOTICE" target="_blank" rel="noopener">出典・ライセンス</a>）。',
     'nav.tab.claw': 'Claw',
     'nav.tab.code': 'Code',
     'easycode.meta.title': 'EasyCode — Claude Code ワンクリックインストーラー',
@@ -335,6 +341,8 @@ const translations = {
     'footer.privacy': '隐私政策',
     'footer.copyright':
       '© 2026 <a href="https://needslab.ai" target="_blank" rel="noopener">NeedsLab</a> | 营业执照号: 825-16-02771',
+    'footer.notice':
+      'EasyClaw 是非官方的安装工具，与 OpenClaw 项目没有隶属或合作关系，也未获得该项目的认可。EasyClaw 的吉祥物改编自 OpenClaw 的吉祥物（<a href="https://github.com/needsbuilder/easyclaw/blob/main/NOTICE" target="_blank" rel="noopener">来源与许可</a>）。',
     'nav.tab.claw': 'Claw',
     'nav.tab.code': 'Code',
     'easycode.meta.title': 'EasyCode — Claude Code 一键安装程序',
