@@ -31,7 +31,7 @@ var PRODUCTS = {
         id: 'anthropic',
         name: 'Anthropic',
         model: 'Claude Sonnet 4.6',
-        price: '$1 / $5',
+        price: '$3 / $15',
         color: '#d97706',
         recommended: true,
         url: 'https://console.anthropic.com/settings/keys?utm_source=easyclaw&utm_medium=referral'

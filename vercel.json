@@ -1,8 +1,8 @@
 {
   "buildCommand": "",
   "outputDirectory": "docs",
-  "rewrites": [
-    { "source": "/easycode", "destination": "/index.html" },
-    { "source": "/easycode/", "destination": "/index.html" }
+  "redirects": [
+    { "source": "/easycode", "destination": "/", "permanent": false },
+    { "source": "/easycode/", "destination": "/", "permanent": false }
   ]
 }
