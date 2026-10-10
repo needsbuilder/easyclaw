@@ -39,6 +39,8 @@ EasyClaw 是一个桌面安装器，可以**无需任何终端命令**即可设�
 
 **下载 → 运行 → 输入 API 密钥** — 三步即可完成。
 
+> **注意**：EasyClaw 是非官方的安装工具，与 OpenClaw 项目没有隶属或合作关系，也未获得该项目的认可或背书。来源与许可声明见 [NOTICE](NOTICE)。
+
 ## 主要功能
 
 - **一键安装** — 自动检测并安装 WSL、Node.js 和 OpenClaw
@@ -104,7 +106,8 @@ npm run build:win-local  # Windows 本地构建
 
 ## 致谢
 
-基于 [OpenClaw](https://github.com/openclaw/openclaw)（MIT 许可证）— 由 [openclaw](https://github.com/openclaw) 团队开发
+- EasyClaw 安装的 [OpenClaw](https://github.com/openclaw/openclaw) 是由 [openclaw](https://github.com/openclaw) 团队开发的独立开源项目（MIT 许可证）。EasyClaw 并非由 OpenClaw 团队开发。
+- EasyClaw 的吉祥物改编自 OpenClaw 的吉祥物图形（采用 MIT 许可证的 [openclaw/openclaw](https://github.com/openclaw/openclaw) 仓库中的 [`ui/public/favicon.svg`](https://github.com/openclaw/openclaw/blob/02576615cb4c1382abf1d0aee10ed10f1f676e78/ui/public/favicon.svg)）。来源与许可证全文见 [NOTICE](NOTICE)。
 
 ## 许可证
 

@@ -39,6 +39,8 @@ EasyClawは、[OpenClaw](https://github.com/openclaw/openclaw) AIエージェン
 
 **ダウンロード → 実行 → APIキー入力** — たった3ステップで完了。
 
+> **注記**: EasyClawは非公式のインストーラーです。OpenClawプロジェクトとの提携関係はなく、同プロジェクトの公認や保証を受けたものでもありません。出典とライセンス表示は[NOTICE](NOTICE)をご覧ください。
+
 ## 主な機能
 
 - **ワンクリックインストール** — WSL、Node.js、OpenClawを自動検出・インストール
@@ -104,7 +106,8 @@ npm run build:win-local  # Windows ローカルビルド
 
 ## クレジット
 
-[OpenClaw](https://github.com/openclaw/openclaw)（MITライセンス）ベース — [openclaw](https://github.com/openclaw)チーム開発
+- EasyClawがインストールする[OpenClaw](https://github.com/openclaw/openclaw)は、[openclaw](https://github.com/openclaw)チームが開発している別個のオープンソースプロジェクトです（MITライセンス）。EasyClawはOpenClawチームが開発したものではありません。
+- EasyClawのマスコットは、OpenClawのマスコット画像（MITライセンスの[openclaw/openclaw](https://github.com/openclaw/openclaw)リポジトリにある[`ui/public/favicon.svg`](https://github.com/openclaw/openclaw/blob/02576615cb4c1382abf1d0aee10ed10f1f676e78/ui/public/favicon.svg)）を改変したものです。出典とライセンス全文は[NOTICE](NOTICE)に記載しています。
 
 ## ライセンス
 

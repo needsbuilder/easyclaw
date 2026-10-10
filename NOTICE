@@ -1,0 +1,84 @@
+NOTICE for EasyClaw
+
+EasyClaw is released under the MIT License (see LICENSE).
+
+This file records the source of the OpenClaw mascot artwork used in this
+repository and how EasyClaw relates to OpenClaw. npm dependencies are listed
+in package.json and are distributed under their own licenses.
+
+
+1. Relationship to OpenClaw
+---------------------------
+
+EasyClaw is an unofficial third-party installer for OpenClaw
+(https://github.com/openclaw/openclaw). It is not affiliated with or endorsed
+by the OpenClaw project or its maintainers. The name "OpenClaw" is used here
+only to describe the software that EasyClaw installs.
+
+
+2. OpenClaw software
+--------------------
+
+EasyClaw does not ship a copy of OpenClaw. During setup it installs OpenClaw
+on the user's machine from the npm registry
+(`npm install -g openclaw@latest`). OpenClaw is separate software and is
+governed by its own license:
+
+  https://github.com/openclaw/openclaw/blob/main/LICENSE
+
+
+3. Mascot artwork
+-----------------
+
+The EasyClaw mascot is a modified version of the OpenClaw mascot artwork.
+
+  Original file:  ui/public/favicon.svg
+  Repository:     https://github.com/openclaw/openclaw
+  Version used:   the file as added in upstream commit
+                  02576615cb4c1382abf1d0aee10ed10f1f676e78 (2026-01-30). It
+                  was unchanged in the upstream repository when the EasyClaw
+                  mascot was made on 2026-02-17 (EasyClaw commit ec82125).
+  Permalink:      https://github.com/openclaw/openclaw/blob/02576615cb4c1382abf1d0aee10ed10f1f676e78/ui/public/favicon.svg
+
+Changes made for EasyClaw: the artwork was recolored from red to orange; the
+path coordinates, eye size and position, and antenna stroke width were
+adjusted; a background glow and status color variants (success, error) were
+added.
+
+The modified artwork appears in:
+
+  - src/renderer/src/components/LobsterLogo.tsx
+  - docs/index.html and docs/og-image.html (inline SVG)
+  - images rendered from it: build/icon.png, build/icon.icns, build/icon.ico,
+    resources/icon.png, docs/favicon.png, docs/og-image.png, and the app
+    screenshots and demo recording under docs/
+
+The openclaw/openclaw repository is licensed under the MIT License. Its
+LICENSE file read as follows on 2026-02-17:
+
+    MIT License
+
+    Copyright (c) 2025 Peter Steinberger
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+
+On 2026-05-21 the copyright line of that file was changed upstream to
+"Copyright (c) 2026 OpenClaw Foundation" (upstream commit
+3260da003d844329bf184681689d63fbaee48b6d). The rest of the license text was
+the same when this notice was written (2026-10-10).
